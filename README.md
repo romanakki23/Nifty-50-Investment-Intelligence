@@ -39,7 +39,7 @@ Maximum growth potential.
 - Streamlit
 - Plotly
   
-# We have also made a dashboard using streamlit containing four tabs (Overview, Risk analysis, Portfolio builder and Investment Insights)
+### We have also made a dashboard using streamlit containing four tabs (Overview, Risk analysis, Portfolio builder and Investment Insights)
 ## How to Run Notebook
 Open the notebook in google colab, upload NIFTY50_all.csv and run all.
 ## How to Run the Dashboard
