@@ -38,10 +38,31 @@ Maximum growth potential.
 - Scikit-Learn
 - Streamlit
 - Plotly
+  
+# We have also made a dashboard using streamlit containing four tabs (Overview, Risk analysis, Portfolio builder and Investment Insights)
+## How to Run Notebook
+Open the notebook in google colab, upload NIFTY50_all.csv and run all.
+## How to Run the Dashboard
 
-## How to Run
+1. Clone or download the project.
+
+2. Navigate to the project directory:
+
+```bash
+cd NIFTY50-Investment-Intelligence
+```
+
+3. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+
+4. Launch the Streamlit dashboard:
+
+```bash
 python -m streamlit run app.py
 ```
+
+5. Open the URL displayed in the terminal (typically http://localhost:8501).
+
